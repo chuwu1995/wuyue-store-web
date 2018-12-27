@@ -1,7 +1,7 @@
 {
-  "name": "heinz95729web",
+  "name": "wuyuestoreweb",
   "version": "1.0.0",
-  "description": "The web app for the Heinz 95729 Course Project",
+  "description": "The web app for Wu Yue's Store Project",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/losandes/heinz-95729-project-2017.git"
+    "url": "https://github.com/chuw1995/wuyue-store-web"
   },
-  "author": "&y <andes.collab@gmail.com> (https://github.com/losandes)",
-  "homepage": "https://github.com/losandes/heinz-95729-project-2017",
+  "author": "&y <chuw@andrew.cmu.edu> (https://github.com/chuw1995)",
+  "homepage": "https://github.com/chuw1995/wuyue-store-web",
   "license": "MIT",
   "dependencies": {
     "async": "^2.6.1",

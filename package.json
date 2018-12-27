@@ -1,24 +1,19 @@
 {
-  "name": "heinz95729project",
+  "name": "wuyuestore",
   "version": "1.0.0",
-  "description": "The Heinz 95729 Course Project",
+  "description": "Wue Yue's Store",
   "main": "index.js",
   "scripts": {
-    "start": "echo 'use npm run start:api, npm run start:web, & npm run start:cui instead\n'",
-    "start:api": "cd api; npm start;",
+    "start": "echo 'npm run start:web\n'",
     "start:web": "cd web; npm start;",
-    "start:cui": "cd cui; npm start;",
-    "install:api": "cd api; npm install;",
-    "install:web": "cd web; npm install; bower install;",
-    "install:cui": "cd cui; npm install;",
-    "seed": "cd api; npm run seed;"
+    "install:web": "cd web; npm install; bower install;"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/losandes/heinz-95729-project-2017.git"
   },
-  "author": "&y <andes.collab@gmail.com> (https://github.com/losandes)",
-  "homepage": "https://github.com/losandes/heinz-95729-project-2017",
+  "author": "&y <chuw@andrew.cmu.edu> (https://github.com/chuw1995)",
+  "homepage": "https://github.com/chuw1995/wuyue-store-web",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^4.5.0",
